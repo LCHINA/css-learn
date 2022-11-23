@@ -84,6 +84,7 @@ body *+* {
 }
 
 .row {
+  display: flex;
   margin-left: -.75em;
   margin-right: -.75em;
 }
@@ -172,6 +173,7 @@ main {
 
 
 .media {
+  height: 100%;
   padding: 1.5em;
   background-color: #eee;
   border-radius: .5em;
