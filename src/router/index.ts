@@ -30,6 +30,11 @@ const router = createRouter({
       name: "5-2",
       component: () => import("../views/CSS-5-2.vue"),
     },
+    {
+      path: "/6-3",
+      name: "6-3",
+      component: () => import("../views/CSS-6-3.vue"),
+    },
   ],
 });
 
