@@ -37,8 +37,13 @@ const router = createRouter({
     },
     {
       path: "/7-1",
-      name: "6-1",
+      name: "7-1",
       component: () => import("../views/CSS-7-1.vue"),
+    },
+    {
+      path: "/11-11",
+      name: "11-11",
+      component: () => import("../views/CSS-11-11.vue"),
     },
   ],
 });
