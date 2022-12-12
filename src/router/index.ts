@@ -50,6 +50,11 @@ const router = createRouter({
       name: "11-2",
       component: () => import("../views/CSS-11-2.vue"),
     },
+    {
+      path: "/11-3",
+      name: "11-3",
+      component: () => import("../views/CSS-11-3.vue"),
+    },
   ],
 });
 
