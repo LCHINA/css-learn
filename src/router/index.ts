@@ -41,9 +41,9 @@ const router = createRouter({
       component: () => import("../views/CSS-7-1.vue"),
     },
     {
-      path: "/11-11",
-      name: "11-11",
-      component: () => import("../views/CSS-11-11.vue"),
+      path: "/11-1",
+      name: "11-1",
+      component: () => import("../views/CSS-11-1.vue"),
     },
   ],
 });
