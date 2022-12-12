@@ -45,6 +45,11 @@ const router = createRouter({
       name: "11-1",
       component: () => import("../views/CSS-11-1.vue"),
     },
+    {
+      path: "/11-2",
+      name: "11-2",
+      component: () => import("../views/CSS-11-2.vue"),
+    },
   ],
 });
 

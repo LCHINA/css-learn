@@ -16,6 +16,7 @@ import HelloWorld from "./components/HelloWorld.vue";
         <RouterLink to="/6-3">6-3</RouterLink>
         <RouterLink to="/7-1">7-1</RouterLink>
         <RouterLink to="/11-1">11-1</RouterLink>
+        <RouterLink to="/11-2">11-2</RouterLink>
       </nav>
     </div>
   </header>
